@@ -3,3 +3,4 @@ This is a record of the software team notes, thoughts, and meeting minutes for t
 
 ## Meeting Minutes
 [01/08/2024](minutes/2024_01_08.md)
+[01/10/2024](minutes/2024_01_10.md)
