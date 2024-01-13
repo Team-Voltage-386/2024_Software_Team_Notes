@@ -7,3 +7,5 @@ This is a record of the software team notes, thoughts, and meeting minutes for t
 [01/10/2024](minutes/2024_01_10.md)
 
 [01/12/2024](minutes/2024_01_12.md)
+
+[01/13/2024](minutes/2024_01_13.md)
