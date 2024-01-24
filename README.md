@@ -12,4 +12,4 @@ This is a record of the software team notes, thoughts, and meeting minutes for t
 
 [01/14/2024](minutes/2024_01_14.md)
 
-[01/15/2024](minutes/2024_01_15.md)
+[01/23/2024](minutes/2024_01_23.md)
